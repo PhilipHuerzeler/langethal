@@ -1,3 +1,8 @@
-# import pandas as pd
+# input metrices
 
-print("hello world!!!")
+x = input(str("Weight"))
+y = input(str("Height"))
+
+# caffeine gets processed xx per xx
+
+# GUI für design
