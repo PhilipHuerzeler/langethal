@@ -25,8 +25,3 @@ class MyWindow:
         result=51.44*num1 / num2 + 15.3
         self.t3.insert(END, str(result))
 
-window=Tk()
-mywin=MyWindow(window)
-window.title('Hello Python')
-window.geometry("400x300+10+10")
-window.mainloop()
